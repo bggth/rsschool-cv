@@ -1,7 +1,7 @@
 # Denis Abrosimov
 
 ## Contacts
-* Discord: el#1234
+* Discord: el#1371
 * E-mail: darkpers@gmail.com
 * Telegram: @bggth
 
