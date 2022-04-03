@@ -1,3 +1,6 @@
+## Denis Abrosimov
+---
+
 ## Contacts
 * Discord: el#1234
 * E-mail: darkpers@gmail.com
@@ -13,14 +16,14 @@ I want to learn frontend development in RSSchool.
 * CSS
 
 ## Code example
-`
-console.log(`Hello, World!`);
-`
+```
+console.log('Hello, World!');
+```
 ## Expirience
-* Null++
+* null++
 
 ## Education
-* RSS2022Q1
+* JS/FE RSS2022Q1
 
 ## Language
 Russian - Б1
